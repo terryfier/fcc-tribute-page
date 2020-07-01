@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: #FF0000;
+    padding-bottom: 3rem;
+}
+
+#title {
+    font-size: 4em;
+    font-weight: 700;
+    padding: 3rem 0;
+    text-align: center;
+}
+.main {
+    background-color: #ffffff;
+    width: 80%;
+    margin: auto;
+}
+#img-div {
+    text-align: center;
+    padding: 1rem 0;
+}
+#image {
+    margin-bottom: 1rem;
+    max-width: 80%;
+}
+
+#tribute-info {
+    margin-left: 4rem;
+    line-height: 2rem;
+}
+#tribute-info h2 {
+    font-size: 2em;
+    margin-bottom: 1rem;
+}
+#tribute-info span {
+    font-weight: 700;
+}
+#tribute-link-para {
+    font-weight: 300;
+    margin-top: 2rem;
+    text-align: center;
+}
+#tribute-link {
+    text-decoration: none;
+    font-weight: 700;
+}
+#tribute-link:hover {
+    color: #FF0000;
+}
